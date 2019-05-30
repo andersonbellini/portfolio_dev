@@ -1,4 +1,4 @@
-# Portfolio_dev
+# Portfolio Dev
 > Portfolio online for devs.
 
 
@@ -28,7 +28,7 @@ In development just run
 npm start
 ```
 
-## Meta
+## Crédits
 
 Anderson V. Bellini – [@Linkedin](https://www.linkedin.com/in/abellini/)
 
