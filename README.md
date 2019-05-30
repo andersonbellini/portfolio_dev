@@ -1,2 +1,36 @@
-# portfolio_dev
-portfolio_dev is a model to create a cv site with experiences
+# Portfolio_dev
+> Portfolio online for devs.
+
+
+A simple portfolio online for add skills and contact made with ReactJs and Materialize.
+
+![](dev_programmer.gif)
+
+## Installation
+
+Windows & Linux:
+
+```sh
+git clone or download the project
+this project use npm
+```
+
+## Usage example
+
+This APP is a simple reactApp that can be modified changing components in src/components.
+
+
+## Development setup
+
+In development just run 
+
+```sh
+npm start
+```
+
+## Meta
+
+Anderson V. Bellini – [@Linkedin](https://www.linkedin.com/in/abellini/)
+
+
+
