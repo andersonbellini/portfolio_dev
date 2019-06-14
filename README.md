@@ -4,8 +4,6 @@
 
 A simple portfolio online for add skills and contact made with ReactJs and Materialize.
 
-![](dev_programmer.gif)
-
 ## Installation
 
 Windows & Linux:
